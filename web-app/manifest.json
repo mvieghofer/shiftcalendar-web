@@ -1,0 +1,14 @@
+{
+  "name": "ShiftCalendar",
+  "version": "0.2",
+  "manifest_version": 2,
+
+  "description": "A plain text description",
+  "icons": { "16": "images/icon-16.png", "128": "images/icon-128.png" },
+  
+  "app": {
+      "launch": {
+            "web_url": "http://markusvieghofer.at/shiftCalendar/"
+            }
+  }
+}
